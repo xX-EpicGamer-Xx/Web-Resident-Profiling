@@ -1,0 +1,1 @@
+COMMAND: "C:\xampp\mysql\bin\mysqldump.exe" --user=root --host=localhost website > "backups/backup-20250522-181752.sql"
